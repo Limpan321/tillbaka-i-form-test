@@ -1,16 +1,16 @@
 {
-  "name": "Tillbaka i form – Studio",
+  "name": "Tillbaka i form",
   "short_name": "Tillbaka i form",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#050505",
-  "theme_color": "#050505",
+  "background_color": "#080809",
+  "theme_color": "#080809",
   "icons": [
     {
-      "src": "icon-512.png",
+      "src": "./icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "scope": "./"
+  ]
 }
