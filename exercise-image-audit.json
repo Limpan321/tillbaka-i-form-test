@@ -1,0 +1,177 @@
+[
+  {
+    "sv": "Bröstpress i maskin",
+    "cue": "Sätt handtagen i brösthöjd. Pressa fram och återgå långsamt.",
+    "image_status": "existing_preview_needs_technique_review",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Lutande hantelpress",
+    "cue": "Ställ bänken i lätt lutning, pressa hantlarna uppåt.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Axelpress i maskin",
+    "cue": "Pressa uppåt utan att överdriva svanken.",
+    "image_status": "existing_preview_needs_technique_review",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Sidolyft med hantlar",
+    "cue": "Lyft armarna åt sidan till axelhöjd.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Triceps pushdown",
+    "cue": "Håll överarmarna intill kroppen och sträck armbågarna.",
+    "image_status": "existing_preview_needs_technique_review",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Triceps över huvudet i kabel",
+    "cue": "Sträck armbågarna utan att röra överarmarna för mycket.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Latsdrag",
+    "cue": "Dra handtaget mot övre bröstet, inte bakom nacken.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Bröststödd rodd",
+    "cue": "Dra armbågarna bakåt med bröstet mot dynan.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Sittande kabelrodd",
+    "cue": "Dra mot magen med stilla överkropp.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Omvänd pec deck",
+    "cue": "För armarna utåt och bakåt, kontrollerat.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Hantelcurl",
+    "cue": "Böj armbågarna utan att svinga.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Hammercurl",
+    "cue": "Håll handflatorna mot varandra.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Benpress",
+    "cue": "Böj knäna i bekvämt rörelseutslag, pressa kontrollerat.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Benspark",
+    "cue": "Börja lätt. Sträck knäna inom smärtfritt rörelseutslag.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Höftlyft i maskin",
+    "cue": "Pressa höften uppåt och spänn sätet.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Vadpress",
+    "cue": "Lyft hälarna, pausa och sänk långsamt.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Cable crunch",
+    "cue": "Runda överkroppen med magen, inte med armarna.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Lutande bröstpress",
+    "cue": "Pressa framåt/uppåt och återgå långsamt.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Latsdrag neutralt grepp",
+    "cue": "Dra handtagen mot bröstet.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Rodd i maskin",
+    "cue": "Dra armbågarna bakåt utan ryck.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Sidolyft i kabel",
+    "cue": "Lyft armen åt sidan till axelhöjd.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Bicepscurl i kabel",
+    "cue": "Håll överarmarna stilla.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Rumänska marklyft med hantlar",
+    "cue": "Skjut höften bakåt med mjukt böjda knän och neutral rygg.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Sittande vadpress",
+    "cue": "Pressa hälarna uppåt och sänk långsamt.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  },
+  {
+    "sv": "Dead bug",
+    "cue": "Ligg på rygg och sänk motsatt arm och ben utan att svanka.",
+    "image_status": "needs_licensed_illustration",
+    "source_candidate": "RepDB free dataset",
+    "license": "Commercial in-app with attribution; match exercise identity before use"
+  }
+]

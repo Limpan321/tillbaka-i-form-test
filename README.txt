@@ -1,0 +1,1 @@
+V17 research build. Befintlig historik och profil lagras som tidigare lokalt. Korrigerar missvisande övningsbilder och lägger till audit av alla unika övningar. Bildbiblioteket är INTE komplett. Ingen publicering krävs för att granska filerna.
