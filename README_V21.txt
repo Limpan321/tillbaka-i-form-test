@@ -1,0 +1,1 @@
+V21: Premiumdesign efter godkänd målbild. Startsida, träningslista, övningsdetaljer. Befintlig onboarding, historik och träningslogg bevarade. Illustrationer/animationer är ännu inte kompletta. Lägg filerna i repository-roten på GitHub Pages.
