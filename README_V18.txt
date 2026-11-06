@@ -1,0 +1,1 @@
+V18: onboarding vid första besök med namn, mål, träningsdagar och erfarenhet. Sparas enbart lokalt per webbläsare, INGET riktigt konto. Profilnamn kan redigeras i Profil. Befintliga funktioner bevarade. Ladda upp innehållet i ZIP till GitHub repository root, inte ZIP-filen.
