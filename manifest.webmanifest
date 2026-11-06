@@ -1,1 +1,16 @@
-{"name": "Tillbaka i form – Studio", "short_name": "Tillbaka i form", "start_url": "/", "display": "standalone", "background_color": "#050505", "theme_color": "#050505", "icons": [{"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}]}
+{
+  "name": "Tillbaka i form – Studio",
+  "short_name": "Tillbaka i form",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "scope": "./"
+}
